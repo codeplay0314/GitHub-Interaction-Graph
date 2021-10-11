@@ -3,14 +3,29 @@
 ## Description
 
 ## Interaction Graph
+-  Original Data `data/GHArchive`: Raw data of record of GitHub Event Timeline
+- Interaction Graph Building `data/Graph`: Interaction Graph built from the original data, by `data/Graph/getTargetEvent.py`
 
-### Original Data (data/GHArchive)
-Raw data of record of GitHub Event Timeline
+## Analysis on Interaction Graph
+- Degree and Reciprocity `data/Analysis/Degree&Reciprocity`
+- Clustering Coefficient  
+// Todo: zjx
+- Connected Component
+// Todo: fez
+- Macrostructure
+// Todo: fez
+- Community
+// Todo: fez
 
-### Interaction Graph Building (data/Graph)
-Interaction Graph built from the original data, by `data/Graph/getTargetEvent.py`
+## Structural Hole Spanner Detection
 
-### Analysis: Degree and Reciprocity (data/Analysis/Degree&Reciprocity)
-
+## Analysis on Structural Hole Spanners
+### Degree
+### Betweenness Centrality
+### Connected Communities
+### Social Connectivity
+### Profile Attributes
+### Events
+### Word Frequency
 
 ## Other

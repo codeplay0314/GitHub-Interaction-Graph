@@ -6,8 +6,8 @@
 ### upstream data
 `/data/Graph/G.edgelist`  
 ### parameter
-- command line: number of nodes, number of edges, input file, output file  
-- code: `maxn` number of nodes, `maxm` number of edges
+- **command line**: number of nodes, number of edges, input file, output file  
+- **code**: `maxn` number of nodes, `maxm` number of edges
 ### output
 `result.txt`  
 ```
@@ -35,8 +35,8 @@ CCDF of Degree
 ### upstream data
 `/data/Graph/G.edgelist`  
 ### parameter
-- command line: number of nodes, number of edges, input file, output file  
-- code: `maxn` number of nodes, `maxm` number of edges
+- **command line**: number of nodes, number of edges, input file, output file  
+- **code**: `maxn` number of nodes, `maxm` number of edges
 ### output
 `result.txt`  
 ```
@@ -59,7 +59,7 @@ CCDF of Reciprocity
 `degree.txt`  
 `reciprocity.txt`
 ### parameter
-- code: `n` number of nodes
+- **code**: `n` number of nodes
 ### output
 ```
 average incoming degree

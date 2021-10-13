@@ -7,8 +7,8 @@
 ### upstream data
 `/data/Graph/G.edgelist`  
 ### parameter
-- command line: number of nodes, number of edges, input file, output file  
-- code: `maxn` number of nodes, `maxm` number of edges
+- **command line**: number of nodes, number of edges, input file, output file  
+- **code**: `maxn` number of nodes, `maxm` number of edges
 ### output
 ```
 number of SCC
@@ -27,11 +27,12 @@ Top components: 420124 55 53 44 39 39 38 32 30 27
 ## Weekly Connected Component
 ### code
 `2.find_wcc.cpp`
+- algorithm: union find
 ### upstream data
 `/data/Graph/G.edgelist`  
 ### parameter
-- command line: number of nodes, number of edges, input file, output file  
-- code: `maxn` number of nodes, `maxm` number of edges
+- **command line**: number of nodes, number of edges, input file, output file  
+- **code**: `maxn` number of nodes, `maxm` number of edges
 ### output
 ```
 number of WCC
@@ -53,7 +54,7 @@ Top components: 5796408 54 50 49 46 46 44 42 41 36
 ### upstream data
 `scc.txt`  
 ### paramete
-- code: `n` number of nodes
+- **code**: `n` number of nodes
 ### output
 `result.txt`: the index of the largest SCC
 ### sample

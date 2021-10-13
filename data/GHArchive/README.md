@@ -1,6 +1,6 @@
 # Original Data (data/GHArchive)
 
-Due to extremely large size, the data are stored at server 10.176.122.43:~/GitHub-Interaction-Graph/GHArchive.  
+Due to extremely large size, the data are stored at server `10.176.122.43:~/GitHub-Interaction-Graph/GHArchive`.  
 This fold only displays a sample file.
 
 ## Source
@@ -10,7 +10,7 @@ Open source data downloaded from `GitHub Archive`: https://www.gharchive.org/
 54G (from 2019-01 to 2019-03)
 
 ## Format
-All are seperated in different gz file by hour (e.g. 2019-01-17-6.json.gz), and each fz file contains only one json file, in which each line is a record of a user-triggered event.  
+All are seperated in different gz file by hour (e.g. 2019-01-17-6.json.gz), and each gz file contains only one json file, in which each line is a record of a user-triggered event.  
 An example of a ForkEvent record:
 ```json
 {

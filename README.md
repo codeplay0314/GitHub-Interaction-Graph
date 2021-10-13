@@ -3,20 +3,17 @@
 ## Description
 
 ## Interaction Graph
--  **Original Data** `data/GHArchive`: raw data of record of GitHub Event Timeline
-- **Interaction Graph Building** `data/Graph`: interaction graph built from the original data, by `data/Graph/getTargetEvent.py`
+-  ![**Original Data**](https://github.com/codeplay0314/GitHub-Interaction-Graph/tree/main/data/GHArchive): raw data of record of GitHub Event Timeline
+- ![**Interaction Graph Building**](https://github.com/codeplay0314/GitHub-Interaction-Graph/tree/main/data/Graph): interaction graph built from the original data
 
 ## Analysis on Interaction Graph
-- **Degree and Reciprocity** `data/Analysis/Degree&Reciprocity`: analysis of the interaction graph relating to degree and reciprocity
-- **Clustering Coefficient** `data/Analysis/ClusteringCoefficient`: analysis of the interaction graph relating to clustering coefficient
+- ![**Degree and Reciprocity**](https://github.com/codeplay0314/GitHub-Interaction-Graph/tree/main/data/Analysis/Degree&Reciprocity): analysis of the interaction graph relating to degree and reciprocity
+- ![**Clustering Coefficient**](https://github.com/codeplay0314/GitHub-Interaction-Graph/tree/main/data/Analysis/ClusteringCoefficient): analysis of the interaction graph relating to clustering coefficient
 // Todo: zjx
-- **Connected Component** `data/Analysis/ConnectedComponent`: analysis of the interaction graph relating to strongly and weekly connected component
-// Todo: fez
-- **Macrostructure** `data/Analysis/Macrostructure`: analysis of the interaction graph relating to macrostructure
-// Todo: fez
-- **Community** `data/Analysis/Community`:
-// Todo: fez
-analysis of the interaction graph relating to community
+- ![**Connected Component**](https://github.com/codeplay0314/GitHub-Interaction-Graph/tree/main/data/Analysis/ConnectedComponent): analysis of the interaction graph relating to strongly and weekly connected component
+- ![**Macrostructure**](https://github.com/codeplay0314/GitHub-Interaction-Graph/tree/main/data/Analysis/Macrostructure): analysis of the interaction graph relating to macrostructure
+- ![**Community**](https://github.com/codeplay0314/GitHub-Interaction-Graph/tree/main/data/Analysis/Community): analysis of the interaction graph relating to community
+// Todo: zjx
 
 ## Structural Hole Spanner Detection
 

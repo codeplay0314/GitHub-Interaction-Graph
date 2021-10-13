@@ -18,12 +18,12 @@
 ## Structural Hole Spanner Detection
 
 ## Analysis on Structural Hole Spanners
-### Degree
-### Betweenness Centrality
-### Connected Communities
-### Social Connectivity
-### Profile Attributes
-### Events
-### Word Frequency
+- [Degree](data/Analysis/SHS/Degree):
+- [Betweenness Centrality]():
+- [Connected Communities]():
+- [Social Connectivity]():
+- [Profile Attributes]():
+- [Events]():
+- [Word Frequency]():
 
 ## Other

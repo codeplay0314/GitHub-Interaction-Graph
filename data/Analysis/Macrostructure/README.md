@@ -1,4 +1,4 @@
-# Analysis: Degree
+# Analysis: Macrostructure
 
 ## Rebuild 
 ### code
